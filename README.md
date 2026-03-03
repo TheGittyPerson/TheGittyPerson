@@ -6,7 +6,7 @@
 
 ```python
 class Person:
-    def __init__(name, age, hobby, gender,
+    def __init__(self, name, age, hobby, gender,
                  nationality, fav_food, fav_emoji):
         self.name = name.title()
         self.age = age
@@ -22,14 +22,23 @@ class Person:
         baby = self.mother.womb.unload()
         baby.umbilical_cord.cut()
         self.legally_set_name(self.name, baby)
+        self.year_born = datetime.now().year
+
+    def grow(self):
+        self.age = datetime.now().year + self.year_born
+        self.height += random.randint(1, 10)
+        if 12 <= self.age <= 18:
+          self.body.apply_effect("puberty", severity=random.randint(1, 100))
 
     def greet(self):
         print(
-            f"Hello! I'm {self.name}."
+            f"Hello! I'm {self.name}. {self.fav_emoji}"
             f"\nI'm {self.age} years old."
             f"\nI'm from {self.nationality}."
             f"\nI love {self.hobby} and {self.fav_food}."
         )
+
+    ...
 
 
 me = Person(
@@ -37,11 +46,12 @@ me = Person(
     "hah not telling you",
     "programming",
     "male",
-    "somewhere on this place called—I don't know if you've heard of it—Earth"
+    "somewhere on this place called——I don't know if you've heard of it——Earth",
     "norishio potato chips",
     "\U0001F972"
 )
 me.birth()
+me.grow()
 me.greet()
 ```
 ```
@@ -85,6 +95,11 @@ Namespaces are one honking great idea -- let's do more of those!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,md,git,github,pycharm,webstorm,,,vscode,apple,windows,gmail,discord&perline=9&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,md,git,github,pycharm,webstorm,vscode,apple,windows,gmail,discord&perline=7&theme=light" />
   </a>
 </p>
+
+<p align="center">
+  <i>(Eager to learn more)</i>
+</p>
+
