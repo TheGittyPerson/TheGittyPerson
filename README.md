@@ -17,7 +17,7 @@ class Person:
         self.fav_emoji = fav_emoji
         ...
 
-    def greet(self):
+    def greet(self) -> None:
         print(
             f"Hello! I'm {self.name}. {self.fav_emoji}"
             f"\nI'm {self.age} years old."
@@ -31,7 +31,7 @@ me = Person(
     "hah not telling you",
     "programming",
     "male",
-    "somewhere on this place called——I don't know if you've heard of it——Earth",
+    "Ormaphea",
     "norishio potato chips",
     "\U0001F972"
 )
@@ -40,7 +40,7 @@ me.greet()
 ```
 Hello! I'm Morpheus. 🥲
 I'm hah not telling you years old.
-I'm from somewhere on this place called—I don't know if you've heard of it—Earth.
+I'm from Ormaphea.
 I love programming and norishio potato chips.
 ```
 
