@@ -5,46 +5,28 @@
 </p>
 
 ```python
-class Person:
-    def __init__(self, name, age, hobby, gender,
-                 nationality, fav_food, fav_emoji):
-        self.name = name.title()
-        self.age = age
-        self.hobby = hobby
-        self.gender = gender
-        self.nationality = nationality
-        self.fav_food = fav_food
-        self.fav_emoji = fav_emoji
-        ...
-
-    def greet(self) -> None:
-        print(
-            f"Hello! I'm {self.name}. {self.fav_emoji}"
-            f"\nI'm {self.age} years old."
-            f"\nI'm from {self.nationality}."
-            f"\nI love {self.hobby} and {self.fav_food}."
-        )
-
-
 me = Person(
-    "morpheus",
-    "hah not telling you",
-    "programming",
-    "male",
-    "Ormaphea",
-    "norishio potato chips",
-    "\U0001F972"
+    name="morpheus",
+    age="hah not telling you",
+    hobby="programming",
+    gender="male",
+    origin="Ormaphea",
+    favorite_food="norishio potato chips",
+    favorite_emoji="\U0001F972"
 )
-me.greet()
 ```
-```
-Hello! I'm Morpheus. 🥲
-I'm hah not telling you years old.
-I'm from Ormaphea.
-I love programming and norishio potato chips.
-```
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TheGittyPerson&theme=light"/></a>
+  <a> <img src="https://github-readme-stats-fast.vercel.app/api?username=TheGittyPerson&show_icons=true&theme=light"/></a>
+</p>
+<p align="center">
 
 ---
+
+<h3 align="center">
+  My Skills
+</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
