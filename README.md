@@ -38,3 +38,6 @@ me = Person(
   <i>(Eager to learn more)</i>
 </p>
 
+<p align="center">
+  <img alt="Seen by" src="https://hits.sh/github.com/TheGittyPerson/hits.svg?style=for-the-badge&label=SEEN%20BY&color=blue&logo=github"/>
+</p>
