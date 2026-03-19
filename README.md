@@ -30,7 +30,7 @@ me = Person(
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,md,git,github,pycharm,webstorm,vscode,apple,windows,gmail,discord&perline=7&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,ghactions,pycharm,webstorm,vscode,apple,windows,gmail,discord&perline=7&theme=light" />
   </a>
 </p>
 
