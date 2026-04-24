@@ -25,7 +25,7 @@ me = Person(
 ---
 
 <h3 align="center">
-  My Skills
+  My Stack
 </h3>
 
 <p align="center">
