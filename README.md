@@ -30,12 +30,8 @@ me = Person(
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,ghactions,pycharm,webstorm,vscode,apple,windows,gmail,discord&perline=7&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,js,html,css,git,fastapi,github,ghactions,pycharm,webstorm,idea,vscode,apple,windows,gmail&perline=8&theme=light" />
   </a>
-</p>
-
-<p align="center">
-  <i>(Eager to learn more)</i>
 </p>
 
 <p align="center">
