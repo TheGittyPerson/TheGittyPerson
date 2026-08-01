@@ -34,7 +34,7 @@ me = Person(
 
 <p align="center">
   <a href="https://github.com/syvixor/skills-icons">
-    <img src="https://skills.syvixor.com/api/icons?i=python,javascript,nodejs,html,css3,zshell,markdown,scratch,git,github,githubactions,githubpages,json,fastapi,numpy,pypi,pycharm,webstorm,intellijidea,visualstudiocode,codewars,freecodecamp,googlechrome,googledrive,googledocs,googlesheets,googleslides,canva,macos,ios,android,gmail,reddit,instagram,discord,pinterest&perline=12" alt="Skills" />
+    <img src="https://skills.syvixor.com/api/icons?i=python,javascript,nodejs,html,css3,zshell,markdown,scratch,git,github,githubactions,githubpages,json,matplotlib,fastapi,numpy,pypi,pycharm,webstorm,visualstudiocode,codewars,freecodecamp,googlechrome,googledrive,googledocs,googlesheets,googleslides,canva,macos,ios,android,gmail,reddit,instagram,discord,pinterest&perline=12" alt="Skills" />
   </a>
 </p>
 
