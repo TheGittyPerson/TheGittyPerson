@@ -26,13 +26,17 @@ me = Person(
 ---
 
 <h3 align="center">
-  My Skills
+  My Skills ✨
 </h3>
 <p align="center">
-  Things are work with:
+  Things I work with:
 </p>
 
-[![Skills](https://skills.syvixor.com/api/icons?i=python,javascript,nodejs,html,css3,zshell,markdown,git,github,githubactions,fastapi,pycharm,webstorm,intellijidea,visualstudiocode,codewars,freecodecamp,googlechrome,googledrive,googledocs,googleforms,googlesheets,googleslides,ios,json,jsonschema,macos,numpy,pinterest,pypi,reddit,scratch,instagram,discord,gmail,android&perline=12)](https://github.com/syvixor/skills-icons)
+<p align="center">
+  <a href="https://github.com/syvixor/skills-icons">
+    <img src="https://skills.syvixor.com/api/icons?i=python,javascript,nodejs,html,css3,zshell,markdown,scratch,git,github,githubactions,githubpages,json,fastapi,numpy,pypi,pycharm,webstorm,intellijidea,visualstudiocode,codewars,freecodecamp,googlechrome,googledrive,googledocs,googlesheets,googleslides,canva,macos,ios,android,gmail,reddit,instagram,discord,pinterest&perline=12" alt="Skills" />
+  </a>
+</p>
 
 <p align="center">
   I'm looking for other casual/learning Python developers to build projects together (message me via insta or reddit, links in profile)
