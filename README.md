@@ -19,7 +19,7 @@ me = Person(
 ```
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TheGittyPerson&theme=light"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheGittyPerson" alt="GitHub Streak" /></a>
   <a> <img src="https://github-readme-stats-fast.vercel.app/api?username=TheGittyPerson&show_icons=true&theme=light"/></a>
 </p>
 
