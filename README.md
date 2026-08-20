@@ -18,10 +18,11 @@ me = Person(
 )
 ```
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheGittyPerson" alt="GitHub Streak" /></a>
-  <a> <img src="https://github-readme-stats-fast.vercel.app/api?username=TheGittyPerson&show_icons=true&theme=light"/></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=TheGittyPerson&layout=compact" alt="GitHub Stats"><br>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=TheGittyPerson&show_icons=true" alt="GitHub Stats"><br>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=TheGittyPerson" alt="GitHub Stats">
+</div>
 
 ---
 
