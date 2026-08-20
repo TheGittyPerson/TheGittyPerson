@@ -6,20 +6,19 @@
 
 ```python
 me = Person(
-    name="morpheus",
+    name="Morpheus",
     age="hah not telling you",
-    hobbies=["programming", "listening to music", "drawing", "reading xkcd"],
+    hobbies=["programming", "listening to music", "eating", "reading xkcd"],
     gender="male",
     coding_since=date(year=2022),
-    favorite_language="python"
-    most_effective_comfort_food="norishio potato chips",
+    favorite_language="Python"
+    most_effective_comfort_food="Norishio potato chips",
     favorite_emojis=["🫩", "🥲", "🫪", "🤏"],
     favorite_element="potassium",
 )
 ```
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=TheGittyPerson&layout=compact" alt="GitHub Stats"><br>
+<div align=center>
   <img src="https://github-readme-stats-fast.vercel.app/api?username=TheGittyPerson&show_icons=true" alt="GitHub Stats"><br>
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=TheGittyPerson" alt="GitHub Stats">
 </div>
@@ -30,7 +29,7 @@ me = Person(
   My Skills ✨
 </h3>
 <p align="center">
-  Things I work with:
+  Things I enjoy/work with:
 </p>
 
 <p align="center">
