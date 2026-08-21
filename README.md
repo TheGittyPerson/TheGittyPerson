@@ -9,12 +9,12 @@ me = Person(
     name="Morpheus",
     age="hah not telling you",
     hobbies=["programming", "listening to music", "eating", "reading xkcd"],
-    gender="male",
+    pronouns=["he", "him"],
     coding_since=date(year=2022),
     favorite_language="Python"
     most_effective_comfort_food="Norishio potato chips",
     favorite_emojis=["🫩", "🥲", "🫪", "🤏"],
-    favorite_element="potassium",
+    favorite_element="Potassium",
 )
 ```
 
