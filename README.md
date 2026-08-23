@@ -20,7 +20,8 @@ me = Person(
 
 <div align=center>
   <img src="https://github-readme-stats-fast.vercel.app/api?username=TheGittyPerson&show_icons=true" alt="GitHub Stats"><br>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=TheGittyPerson" alt="GitHub Stats">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=TheGittyPerson" alt="GitHub Stats"><br>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TheGittyPerson" alt="GitHub Stats">
 </div>
 
 ---
