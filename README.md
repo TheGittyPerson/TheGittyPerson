@@ -11,7 +11,7 @@ me = Person.new(
   hobbies: ["programming", "listening to music", "eating", "reading xkcd"],
   pronouns: ["he", "him"],
   coding_since: Date.new(2001),
-  favorite_language: ["Python", "Ruby"].sample
+  favorite_language: ["Python", "Ruby"].sample,
   most_effective_comfort_food: "Norishio potato chips",
   favorite_emojis: %w[🫩 🥲 🫪 🤏],
   favorite_element: "Potassium",
