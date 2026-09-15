@@ -10,7 +10,7 @@ me = Person.new(
   age: "hah not telling you",
   hobbies: ["programming", "listening to music", "eating", "reading xkcd"],
   pronouns: ["he", "him"],
-  coding_since: Date.new(2001),
+  coding_since: Date.new(2022),
   favorite_language: ["Python", "Ruby"].sample,
   most_effective_comfort_food: "Norishio potato chips",
   favorite_emojis: %w[🫩 🥲 🫪 🤏],
