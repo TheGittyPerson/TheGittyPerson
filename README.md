@@ -11,7 +11,7 @@ me = Person.new(
   hobbies: ["programming", "listening to music", "eating", "reading xkcd"],
   pronouns: ["he", "him"],
   coding_since: Date.new(2022),
-  favorite_language: ["Python", "Ruby"].sample,
+  favorite_language: "Ruby",
   most_effective_comfort_food: "Norishio potato chips",
   favorite_emojis: %w[🫩 🥲 🫪 🤏],
   favorite_element: "Potassium",
@@ -30,12 +30,12 @@ me = Person.new(
   My Skills ✨
 </h3>
 <p align="center">
-  Things I enjoy/work with:
+  Things I work with:
 </p>
 
 <p align="center">
   <a href="https://github.com/syvixor/skills-icons">
-    <img src="https://skills.syvixor.com/api/icons?i=python,ruby,javascript,nodejs,html,css3,zshell,markdown,scratch,git,github,githubactions,githubpages,json,matplotlib,fastapi,numpy,pypi,pycharm,webstorm,rubymine,visualstudiocode,codewars,freecodecamp,googlechrome,googledrive,googledocs,googlesheets,googleslides,canva,macos,ios,android,gmail,reddit,instagram&perline=12" alt="Skills" />
+    <img src="https://skills.syvixor.com/api/icons?i=python,ruby,typescript,javascript,nodejs,html,css3,zshell,scratch,git,github,githubactions,githubpages,json,pygame,matplotlib,fastapi,pytest,pypi,pycharm,webstorm,rubymine,visualstudiocode,lmstudio,codewars,freecodecamp,googledrive,googledocs,googlesheets,googleslides,canva,macos,windows&perline=11" alt="Skills" />
   </a>
 </p>
 
