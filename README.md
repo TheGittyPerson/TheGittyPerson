@@ -19,9 +19,13 @@ me = Person.new(
 ```
 
 <div align=center>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=TheGittyPerson&show_icons=true" alt="GitHub Stats"><br>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=TheGittyPerson" alt="GitHub Stats"><br>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TheGittyPerson" alt="GitHub Stats">
+  <!--
+    API hosted on personal domain on Vercel, so that private repos can also be counted.
+    https://vercel.com/morpheus-3025/github-readme-stats-fast
+  -->
+  <img src="https://github-readme-stats-fast-olive-ten.vercel.app/api?username=TheGittyPerson&show_icons=true&include_all_commits=true&number_format=long&card_width=500" alt="GitHub Stats"><br>
+  <img src="https://github-readme-stats-fast-olive-ten.vercel.app/api/streak?username=TheGittyPerson&card_width=500" alt="GitHub Stats"><br>
+  <img src="https://github-readme-stats-fast-olive-ten.vercel.app/api/top-langs/?username=TheGittyPerson&layout=compact&langs_count=20&card_width=500" alt="GitHub Stats">
 </div>
 
 ---
