@@ -39,7 +39,7 @@ me = Person.new(
 
 <p align="center">
   <a href="https://github.com/syvixor/skills-icons">
-    <img src="https://skills.syvixor.com/api/icons?i=python,ruby,typescript,javascript,nodejs,html,css3,zshell,scratch,git,github,githubactions,githubpages,json,pygame,matplotlib,fastapi,pytest,pypi,pycharm,webstorm,rubymine,visualstudiocode,lmstudio,codewars,freecodecamp,googledrive,googledocs,googlesheets,googleslides,canva,macos,windows&perline=11" alt="Skills" />
+    <img src="https://skills.syvixor.com/api/icons?i=python,ruby,typescript,javascript,html,css3,zshell,scratch,git,github,githubactions,githubpages,pycharm,webstorm,rubymine,visualstudiocode,nodejs,json,pygame,matplotlib,fastapi,pytest,pypi,lmstudio,codewars,freecodecamp,googledrive,googledocs,googlesheets,googleslides,canva,macos,windows&perline=11" alt="Skills" />
   </a>
 </p>
 
